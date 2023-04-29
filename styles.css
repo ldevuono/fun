@@ -1,0 +1,12 @@
+body {
+    margin: 50px auto;
+    background-color: plum;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    max-width: 100%;
+}
