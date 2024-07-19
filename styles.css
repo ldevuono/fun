@@ -42,3 +42,11 @@ img {
     text-transform: lowercase;
     padding-top: 10px;
 }
+
+.my-world {
+    background-color: rgb(173, 214, 36);
+}
+
+.god {
+    background-color: rgb(147, 179, 242);
+}
