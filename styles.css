@@ -33,11 +33,12 @@ img {
 }
 
 .birds {
-    padding-top: 20px;
+    padding-top: 10px;
     max-width: 60%;
 }
 
 .birds-text {
     max-width: 60%;
     text-transform: lowercase;
+    padding-top: 10px;
 }
