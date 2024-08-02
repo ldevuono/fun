@@ -44,7 +44,7 @@ img {
 }
 
 .my-world {
-    background-color: rgb(173, 214, 36);
+    background-color: rgb(217, 248, 117);
 }
 
 .god {
@@ -53,4 +53,13 @@ img {
 
 .juice {
     color: rgb(217, 0, 255);
+}
+
+.red {
+    background-color: rgb(230, 206, 206);
+
+}
+
+.edited {
+    padding: 20px 0;
 }
