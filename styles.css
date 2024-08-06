@@ -63,3 +63,8 @@ img {
 .edited {
     padding: 20px 0;
 }
+
+.video {
+    width: 90%;
+    padding: 20px;
+}
