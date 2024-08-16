@@ -44,7 +44,9 @@ img {
 }
 
 .my-world {
-    background-color: rgb(217, 248, 117);
+    background-color: rgb(255, 238, 84);
+    color: blue;
+    font-size: 30px;
 }
 
 .god {
@@ -52,7 +54,7 @@ img {
 }
 
 .juice {
-    color: rgb(217, 0, 255);
+    color: rgb(255, 0, 0);
 }
 
 .red {
