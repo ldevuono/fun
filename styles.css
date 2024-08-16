@@ -59,7 +59,7 @@ img {
 
 .red {
     background-color: rgb(230, 206, 206);
-
+    background-image: url("assets/paddling.png");
 }
 
 .edited {
