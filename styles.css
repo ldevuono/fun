@@ -49,17 +49,11 @@ img {
 }
 
 .my-world {
-    background-color: rgb(255, 238, 84);
-    color: blue;
-    font-size: 30px;
-}
-
-.god {
-    background-color: rgb(147, 179, 242);
+    background-color: rgb(115, 224, 57);
 }
 
 .juice {
-    color: rgb(255, 0, 0);
+    color: rgb(255, 0, 234);
 }
 
 .red {
@@ -76,7 +70,8 @@ img {
     padding: 20px;
 }
 
-.willow {
+.willow,
+.god {
     background-color: rgb(147, 179, 242);
 }
 
@@ -85,7 +80,9 @@ img {
     width: 30%;
 }
 
-
+.green {
+    background-color: rgb(146 164 221)
+}
 
 .reverse {
     transform: scale(-1, 1);
