@@ -25,7 +25,8 @@ img {
 }
 
 
-.grid-bg {
+.grid-bg,
+.heatwave {
     background-color: rgb(163, 146, 221);
 }
 
@@ -80,7 +81,8 @@ img {
     width: 30%;
 }
 
-.green {
+.green,
+.is {
     background-color: rgb(146 164 221)
 }
 
