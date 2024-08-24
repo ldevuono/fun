@@ -1,6 +1,14 @@
 p {
     padding: 0;
     margin: 0;
+    font-family: "Roboto Mono", monospace;
+}
+
+h1,
+h2,
+h3,
+a {
+    font-family: "Roboto Mono", monospace;
 }
 
 body {
@@ -30,6 +38,9 @@ img {
     background-color: rgb(163, 146, 221);
 }
 
+.heatwave {
+    background-image: url("assets/books.png");
+}
 
 .birds-box {
     display: flex;
@@ -83,7 +94,7 @@ img {
 
 .green,
 .is {
-    background-color: rgb(146 164 221)
+    background-color: rgb(146 164 221);
 }
 
 .green p:not(a) {
@@ -102,4 +113,10 @@ img {
     -o-transform: scale(-1, 1);
     -ms-transform: scale(-1, 1);
     transform: scale(-1, 1);
+}
+
+
+.twigs {
+    background-color: rgb(230, 206, 206);
+    background-image: url("assets/bunty.png");
 }
