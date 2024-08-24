@@ -49,6 +49,13 @@ img {
     align-items: center;
 }
 
+.video-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+}
+
 .birds {
     padding-top: 10px;
     max-width: 60%;
@@ -119,4 +126,15 @@ img {
 .twigs {
     background-color: rgb(230, 206, 206);
     background-image: url("assets/bunty.png");
+}
+
+
+@media only screen and (max-width: 900px) {
+    .video-box {
+        flex-direction: column;
+    }
+
+    .video-box video {
+        width: 100%;
+    }
 }
