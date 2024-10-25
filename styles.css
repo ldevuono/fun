@@ -137,6 +137,10 @@ img {
     max-width: 100%;
 }
 
+.video-box {
+    padding-bottom: 20px;
+}
+
 @media only screen and (max-width: 900px) {
     .video-box {
         flex-direction: column;
