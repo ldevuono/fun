@@ -80,6 +80,13 @@ img {
     background-image: url("assets/paddling.png");
 }
 
+.dream {
+    background-image: url("assets/conceived in a dream.png");
+    background-position: center;
+    background-color: rgb(70, 69, 69);
+    color: rgb(144, 141, 141);
+}
+
 .edited {
     padding: 20px 0;
 }
