@@ -105,6 +105,17 @@ img {
     background-color: rgb(204, 214, 235);
 }
 
+.riderless img {
+    max-width: 600px;
+}
+
+.riderless p,
+a {
+    font-size: 18px;
+    font-family: "Jacquarda Bastarda 9", serif;
+    padding-bottom: 10px;
+}
+
 .willowvid {
     padding: 20px;
     width: 30%;
