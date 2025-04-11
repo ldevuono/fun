@@ -151,6 +151,10 @@ p.gulch1 {
     transform: scale(-1, 1);
 }
 
+.bounceable {
+    font-size: 7rem;
+    transition: 7s ease;
+}
 
 .twigs {
     background-color: rgb(230, 206, 206);
