@@ -101,6 +101,10 @@ img {
     background-color: rgb(147, 179, 242);
 }
 
+.riderless {
+    background-color: rgb(204, 214, 235);
+}
+
 .willowvid {
     padding: 20px;
     width: 30%;
