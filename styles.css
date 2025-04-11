@@ -111,9 +111,16 @@ img {
 
 .riderless p,
 a {
-    font-size: 18px;
     font-family: "Jacquarda Bastarda 9", serif;
     padding-bottom: 10px;
+}
+
+.riderless p {
+    font-size: 30px;
+}
+
+p.gulch1 {
+    padding-top: 10px;
 }
 
 .willowvid {
