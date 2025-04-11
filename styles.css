@@ -152,8 +152,19 @@ p.gulch1 {
 }
 
 .bounceable {
-    font-size: 7rem;
-    transition: 7s ease;
+
+    font-size: 1rem;
+    animation: growText 7s ease-in-out forwards;
+}
+
+@keyframes growText {
+    from {
+        font-size: 1rem;
+    }
+
+    to {
+        font-size: 8rem;
+    }
 }
 
 .twigs {
