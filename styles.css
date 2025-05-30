@@ -13,7 +13,7 @@ a {
 
 body {
     margin: 50px auto;
-    background-color: plum;
+    background-color: rgb(0, 0, 0);
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -167,6 +167,21 @@ p.gulch1 {
     }
 }
 
+.stone {
+    background-color: rgb(66, 88, 44);
+}
+
+.stone p,
+.stone a {
+    padding: 0 20px;
+    color: antiquewhite;
+}
+
+.burning {
+    background-color: rgb(147, 56, 56);
+    color: rgb(218, 196, 196);
+}
+
 .twigs {
     background-color: rgb(230, 206, 206);
     background-image: url("assets/bunty.png");
@@ -175,6 +190,7 @@ p.gulch1 {
 .swim {
     background-image: url("assets/companion art garden.png");
     background-size: cover;
+    background-color: plum;
 }
 
 .portrait {
