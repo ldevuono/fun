@@ -211,6 +211,10 @@ p.gulch1 {
     }
 }
 
+.crescent {
+    color: whitesmoke;
+}
+
 .crescent p,
 .crescent a {
     font-family: "Jacquarda Bastarda 9", serif;
