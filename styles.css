@@ -210,3 +210,8 @@ p.gulch1 {
         width: 100%;
     }
 }
+
+.crescent p,
+.crescent a {
+    font-family: "Jacquarda Bastarda 9", serif;
+}
