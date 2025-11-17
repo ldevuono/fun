@@ -9,6 +9,7 @@ h2,
 h3,
 a {
     font-family: "Roboto Mono", monospace;
+    color: black;
 }
 
 body {
@@ -35,8 +36,9 @@ img {
 
 .grid-bg,
 .heatwave {
-    background-color: rgb(160, 151, 189);
+    background-color: rgb(134, 125, 168);
 }
+
 
 .heatwave {
     background-image: url("assets/books.png");
